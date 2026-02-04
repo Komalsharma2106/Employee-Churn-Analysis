@@ -7,13 +7,8 @@ Employee attrition is a major challenge for organizations, leading to increased 
 To uncover patterns behind employee turnover and help HR teams take data-driven actions to improve retention.
 
 ## Tools & Technologies
-- Python
-- Google Looker Studio
-- Pandas, NumPy
-- Matplotlib, Seaborn
-- Jupyter Notebook
-
-
+- SQL
+- Power BI
 ##  Analysis Performed
 - Data cleaning and preprocessing
 - Exploratory Data Analysis (EDA)
@@ -34,6 +29,7 @@ To uncover patterns behind employee turnover and help HR teams take data-driven 
 This project demonstrates how data analysis can support HR decision-making and reduce employee turnover.
 
 ## 📷 Visuals
-<img width="746" height="801" alt="image" src="https://github.com/user-attachments/assets/2f4d6477-1589-4350-86fe-388120a5e0a9" />
+<img width="1275" height="777" alt="image" src="https://github.com/user-attachments/assets/ba9d7558-10f5-4551-a62b-950d99c4a805" />
+
 
 
